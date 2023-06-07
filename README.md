@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b3nzeneknight" alt="b3nzeneknight" /></a> </p>
 
-- 💼 I’m currently pursuing a **BTech** in **Computer Science**
+- 💼 I’m currently pursuing a **BTech** in **Computer Science Engineering**
 
 - 🌱 I’m currently learning **Deep Learning** and **Full Stack Software Development**
 
