@@ -6,7 +6,7 @@
 <img align="center" alt="Coding" width="1000" src="https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b3nzeneknight" alt="b3nzeneknight" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
 
 - 💼 I’m currently pursuing a **BTech** in **Computer Science Engineering**
 
@@ -38,8 +38,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>    </p>
 
 <h2 align="left">Stats for Nerds:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b3nzeneknight&show_icons=true&locale=en" alt="b3nzeneknight" /> </p>  
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b3nzeneknight&" alt="b3nzeneknight" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-patil17&show_icons=true&locale=en" alt="sahil-patil17" /> </p>  
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-patil17&" alt="sahil-patil17" /></p>
 
 
 <h2 align="left">My Profiles:</h2>
