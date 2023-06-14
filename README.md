@@ -38,9 +38,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>    </p>
 
 <h2 align="left">Stats for Nerds:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-patil17&show_icons=true&locale=en" alt="sahil-patil17" /> </p>  
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-patil17&" alt="sahil-patil17" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sahil-patil17&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
 
 <h2 align="left">My Profiles:</h2>
 <p align="left">
