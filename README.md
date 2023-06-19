@@ -1,9 +1,13 @@
-[![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)](https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif)
+
+
+<img align="center" height="270" width = "1500" src="https://github.com/sahil-patil17/sahil-patil17/assets/97554096/2caf6f7c-fda4-4a27-bd77-99d8424fedf5">
+
+
 
 <h1 align="center">Hi 👋, I'm Sahil Patil</h1>
 <h3 align="center">A passionate Computer Engineering Undergrad. I have a deep interest in unravelling any and all technologies that fascinate me. I believe in the motto of never giving up! Hoping to make the best of my time here!</h3>
 
-<img align="center" alt="Coding" width="1000" src="https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif">
+<img align="center" alt="Coding" height="370" width="1000" src="https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
