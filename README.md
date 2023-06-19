@@ -1,6 +1,6 @@
 
 
-<img align="center" height="270" width = "960" src="https://github.com/sahil-patil17/sahil-patil17/assets/97554096/2caf6f7c-fda4-4a27-bd77-99d8424fedf5">
+<img align="center" height="245" width = "960" src="https://github.com/sahil-patil17/sahil-patil17/assets/97554096/2caf6f7c-fda4-4a27-bd77-99d8424fedf5">
 
 
 
