@@ -1,5 +1,3 @@
-
-
 <img align="center" height="245" width = "960" src="https://github.com/sahil-patil17/sahil-patil17/assets/97554096/39cdfc8c-b786-4a09-8b04-ce4d2e0bf2c2">
 
 <h1 align="center">Hi, I'm Sahil   <img src = "https://github.com/sahil-patil17/sahil-patil17/assets/97554096/3c225505-f338-40f1-bebc-13b1a34883f1" height = 29.98 width="32"> 
@@ -44,9 +42,9 @@
 
 <h2 align="left">Stats for Nerds:</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahil-patil17&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
 
 <h2 align="left">My Profiles:</h2>
 <p align="left">
