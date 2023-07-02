@@ -8,9 +8,6 @@
 
 <img align="center" alt="Coding" height="370" width="1000" src="https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
-
 - 💼 I’m currently pursuing a **BTech** in **Computer Science Engineering**
 
 - 🌱 I’m currently learning **Deep Learning** and **Full Stack Software Development**
@@ -46,6 +43,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>    </p>
 
 <h2 align="left">Stats for Nerds:</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahil-patil17&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
 
