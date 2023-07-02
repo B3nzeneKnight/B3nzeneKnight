@@ -40,7 +40,7 @@
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>    </p>
 
-<h2 align="left">Stats for Nerds:</h2>
+<h2 align="left">My Github History:</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahil-patil17&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
 
