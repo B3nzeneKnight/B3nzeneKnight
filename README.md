@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **App Development** and **Data Structures and Algorithms**
 
-- 🎲 My other hobbies include **Playing the piano** 🎹 and **Reading Manga** 📚
+- 🎲 My hobbies include **Playing the piano** 🎹 and **Reading Manga** 📚
 
 - 🖋️ **"We can't become what we need to be by remaining what we are"** ~ ***Oprah***
 
