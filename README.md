@@ -1,4 +1,5 @@
-<img align="center" height="245" width = "960" src="https://github.com/sahil-patil17/sahil-patil17/assets/97554096/39cdfc8c-b786-4a09-8b04-ce4d2e0bf2c2">
+
+![(github banner final)Sahil Patil](https://github.com/sahil-patil17/sahil-patil17/assets/97554096/0e8159b5-1597-42a2-8e6f-4f00fcae4114)
 
 <h1 align="center">Hi, I'm Sahil   <img src = "https://github.com/sahil-patil17/sahil-patil17/assets/97554096/3c225505-f338-40f1-bebc-13b1a34883f1" height = 29.98 width="32"> 
 </h1>
