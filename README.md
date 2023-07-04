@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Sahil   <img src = "https://github.com/sahil-patil17/sahil-patil17/assets/97554096/3c225505-f338-40f1-bebc-13b1a34883f1" height = 29.98 width="32"> 
 </h1>
-<h3 align="center">I'm a passionate Computer Engineering Undergrad. I have a deep interest in unravelling any and all technologies that fascinate me. I believe in the motto of never giving up! :muscle: Hoping to make the best of my time here!</h3> 266
+<h3 align="center">I'm a passionate Computer Engineering Undergrad. I have a deep interest in unravelling any and all technologies that fascinate me. I believe in the motto of never giving up! :muscle: Hoping to make the best of my time here!</h3> 2667657
 
 <img align="center" alt="Coding" height="370" width="1000" src="https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif">
 
