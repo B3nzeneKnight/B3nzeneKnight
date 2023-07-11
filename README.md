@@ -15,7 +15,7 @@
 
 - 🎲 My hobbies include **Playing the piano** 🎹 and **Reading Manga** 📚
 
-- 🖋️ **"We can't become what we need to be by remaining what we are"** ~ ***Oprah***
+- 🖋️ **"We can't become what we need to be by remaining what we are"** ~ ***Oprah*** afds
 
 
 <h2 align="left">Languages and Tools:</h2>
