@@ -50,8 +50,7 @@
 <h2 align="left">My Profiles:</h2>
 <p align="left">
   <a href="https://www.leetcode.com/sahillpatx0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahillpatx0" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/seahillptl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="seahillptl" height="30" width="40" /></a>
-  
+<a href="https://www.codechef.com/users/seahillptl" target="blank"><img align="center" src="https://github.com/sahil-patil17/sahil-patil17/assets/97554096/9cb27e2e-936e-49f2-b618-f68a67e8f844" alt="sahillpatx0" height="40" width="47" /></a>
 <a href="https://linkedin.com/in/sahil-patil-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-patil-" height="30" width="40" /></a>
 <a href="https://instagram.com/notsahill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notsahill" height="30" width="40" /></a>
 
