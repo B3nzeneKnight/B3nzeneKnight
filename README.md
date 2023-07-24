@@ -43,7 +43,7 @@
 
 <h2 align="left">My Github History:</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sahil-patil17&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sahil-patil17&theme=dracula&hide_border=true&border_radius=6.5&card_width=680)](https://git.io/streak-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
 
