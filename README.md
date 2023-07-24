@@ -46,7 +46,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahil-patil17&theme=dracula&hide_border=true&border_radius=6.5&card_width=680)](https://git.io/streak-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-patil17" alt="sahil-patil17" /></a> </p>
-
+ 
 <h2 align="left">My Profiles:</h2>
 <p align="left">
   <a href="https://www.leetcode.com/sahillpatx0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahillpatx0" height="30" width="40" /></a>
