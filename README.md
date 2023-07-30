@@ -7,7 +7,7 @@
 
 <img align="center" alt="Coding" height="370" width="1000" src="https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif">
 
-- 💼 I’m currently pursuing a **BTech** in **Computer Science Engineering**
+- 💼 I’m currently pursuing a **BTech** in **Computer Science cvzEngineering**
 
 - 🌱 I’m currently learning **Deep Learning** and **Full Stack Software Development**
 
