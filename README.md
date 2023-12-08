@@ -10,7 +10,7 @@
 
 - 💼 I’m currently pursuing a **BTech** in **Computer Science Engineering**
 
-- 🌱 I’m currently learning **Deep Learning** and **Full Stack Software Development**
+- 🌱 I’m currently learning **Deep Learning** and **Full Stack Software Development c**
 
 - 💬 Ask me about **App Development** and **Data Structures and Algorithms**
 
