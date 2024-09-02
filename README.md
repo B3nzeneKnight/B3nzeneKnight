@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing** and **Full Stack Software Development**
 
-- 💬 Ask me about **App Development** and **Data Structures and Algorithms**
+- 💬 Ask me about **App Development** and **Artificial Intelligence**
 
 - 🎲 My hobbies include **Playing the piano** 🎹 and **Reading Manga** 📚
 
